@@ -3,6 +3,9 @@
 
 This is a cross-platform app that is made with Flutter. With this app, you can find the public holidays of the country you are looking for. Also, if you tap the country name on the top of the result screen, you can see country details and map.
 
+If you want to run this source code, you need to set the Google Map API key in the necessary files. 
+Or you can download it from [Apple AppStore](https://apps.apple.com/us/app/public-holidays-with-country/id6470494475 "Apple AppStore") or[ Google PlayStore](https://play.google.com/store/apps/details?id=com.muratbaykor.public_holidays " Google PlayStore").
+
 #### Used Public APIs
 [RestCountries ](http://https://restcountries.com/ "RestCountries ")API for country information such as flags, name, currency, capital, location
 [NagerDate](https://date.nager.at/Api "NagerDate") Public Holiday API for public holidays,
